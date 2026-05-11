@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "reading-notes-atomic-habits",
+    "title": "《原子习惯》读书笔记 — 微小改变的巨大力量",
+    "date": "2025-04-20",
+    "tags": ["读书", "成长"],
+    "summary": "《原子习惯》告诉我们，真正的改变来自于无数微小习惯的积累。记录我的核心收获与实践心得。"
+  },
+  {
+    "slug": "typescript-tips",
+    "title": "TypeScript 实用技巧与最佳实践",
+    "date": "2025-03-10",
+    "tags": ["技术", "TypeScript"],
+    "summary": "整理了一些日常开发中非常实用的 TypeScript 技巧，帮助你写出更安全、更优雅的代码。"
+  },
+  {
+    "slug": "vite-react-github-pages",
+    "title": "用 Vite + React 搭建博客并部署到 GitHub Pages",
+    "date": "2025-02-03",
+    "tags": ["技术", "React", "GitHub"],
+    "summary": "手把手教你用 Vite 和 React 搭建个人博客，并通过 GitHub Actions 自动部署到 GitHub Pages。"
+  },
+  {
+    "slug": "hello-world",
+    "title": "Hello World — 我的第一篇博客",
+    "date": "2025-01-15",
+    "tags": ["生活", "随笔"],
+    "summary": "欢迎来到我的个人博客！这里记录我的思考、技术探索与生活感悟。"
+  }
+]
+
